@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Ronel
-- 👀 I’m interested in Front end Web Development
-- 🌱 I’m currently learning Javascript
+- 👋 Hi, I’m Ronel Florida
+
+-  Im Aspiring Full stack web developer
+-  I love creating website
 
 <!---
 Ronel028/Ronel028 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
