@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ronel Florida
-
--  Im Aspiring Full stack web developer
+-  Im Aspiring software developer
 -  I love creating website
 
 <!---
