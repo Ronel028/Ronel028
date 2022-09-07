@@ -17,7 +17,7 @@ I'm Ronel Florida, I graduated recently with a bachelor of Science in Informatio
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
 </div>
 
-## Most Used Programming Langauge
+## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronel028)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Social links
