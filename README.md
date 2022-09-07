@@ -6,7 +6,7 @@
 # Hi there 👋, my name is Ronel Florida
 
 ## About me
-I'm Ronel Florida, I graduated recently with a bachelor of Science in Information technology. I love coding and creating personal projects like landing page websites, websites that use third-party API, and also websites that use databases. I am always motivated to learn new things in order to improve my skills and grow professionally.
+I'm Ronel Florida, I graduated recently with a bachelor of Science in Information technology. I love coding and creating personal projects like landing page websites, websites that use third-party API, and also websites that use databases. I am always motivated to learn new things in order to improve my skills and become a software developer.
 
 ## Skills
 <div align="left">  
