@@ -6,7 +6,7 @@
 # Hi there <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" style="width: 45px"/>, my name is Ronel Florida
 
 ## About me
-I'm Ronel Florida from philippines, I graduated recently with a bachelor of Science in Information technology. I love coding and creating personal projects like landing page websites, websites that use third-party API, and also websites that use databases. I am always motivated to learn new things in order to improve my skills and become a software developer.
+I'm Ronel Florida from philippines, I graduated recently with a bachelor of Science in Information technology. I love coding and creating personal projects like landing page websites, websites that use third-party API and etc. I am always motivated to learn new things in order to improve my skills and become a software developer that can develop not only website but also mobile and desktop application.
 
 - 🌱 I’m currently learning **ReactJS**
 - 👨‍💻 All of my projects are available at [https://www.behance.net/gallery/151854955/My-Awesome-Personal-Projects](https://www.behance.net/gallery/151854955/My-Awesome-Personal-Projects)
