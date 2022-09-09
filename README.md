@@ -1,9 +1,9 @@
-
+![Profile views](https://gpvc.arturio.dev/Ronel028)  
 <div align="center">
   <img width="100%" height = "200px" src="https://github.com/Ronel028/Ronel028/blob/main/GITHUB-BANNER.jpg" alt="cover" />
 </div>
 
-# Hi there 👋, my name is Ronel Florida
+# Hi there <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" style="width: 45px"/>, my name is Ronel Florida
 
 ## About me
 I'm Ronel Florida from philippines, I graduated recently with a bachelor of Science in Information technology. I love coding and creating personal projects like landing page websites, websites that use third-party API, and also websites that use databases. I am always motivated to learn new things in order to improve my skills and become a software developer.
@@ -44,5 +44,3 @@ I'm Ronel Florida from philippines, I graduated recently with a bachelor of Scie
   </a>
 </div>
 
-## Profile views
-![Profile views](https://gpvc.arturio.dev/Ronel028)  
