@@ -29,7 +29,7 @@ I'm Ronel Florida from philippines, I graduated recently with a bachelor of Scie
 </div>
 
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronel028)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronel028&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Connect with me
 <div align="left">
