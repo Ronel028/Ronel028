@@ -8,6 +8,10 @@
 ## About me
 I'm Ronel Florida from philippines, I graduated recently with a bachelor of Science in Information technology. I love coding and creating personal projects like landing page websites, websites that use third-party API, and also websites that use databases. I am always motivated to learn new things in order to improve my skills and become a software developer.
 
+- 🌱 I’m currently learning **ReactJS**
+- 👨‍💻 All of my projects are available at [https://www.behance.net/gallery/151854955/My-Awesome-Personal-Projects](https://www.behance.net/gallery/151854955/My-Awesome-Personal-Projects)
+- 📫 How to reach me **floridaronel15@gmail.com**
+
 ## Languages and Tools
 <div align="left">  
   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" />
