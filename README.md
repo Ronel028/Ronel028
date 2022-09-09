@@ -6,7 +6,7 @@
 # Hi there 👋, my name is Ronel Florida
 
 ## About me
-I'm Ronel Florida, I graduated recently with a bachelor of Science in Information technology. I love coding and creating personal projects like landing page websites, websites that use third-party API, and also websites that use databases. I am always motivated to learn new things in order to improve my skills and become a software developer.
+I'm Ronel Florida from philippines, I graduated recently with a bachelor of Science in Information technology. I love coding and creating personal projects like landing page websites, websites that use third-party API, and also websites that use databases. I am always motivated to learn new things in order to improve my skills and become a software developer.
 
 ## Languages and Tools
 <div align="left">  
@@ -27,7 +27,7 @@ I'm Ronel Florida, I graduated recently with a bachelor of Science in Informatio
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronel028)](https://github.com/anuraghazra/github-readme-stats) 
 
-## Social links
+## Connect with me
 <div align="left">
   <a href="https://github.com/Ronel028" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
