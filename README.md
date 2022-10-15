@@ -10,7 +10,7 @@ I'm Ronel Florida from philippines, I graduated recently with a bachelor of Scie
 
 - 🌱 I’m currently learning **ReactJS**
 - 👨‍💻 All of my projects are available at [https://www.behance.net/gallery/151854955/My-Awesome-Personal-Projects](https://www.behance.net/gallery/151854955/My-Awesome-Personal-Projects)
-- 📫 How to reach me **floridaronel15@gmail.com**
+- 📫 How to reach me **rnl.florida@gmail.com**
 
 ## Languages and Tools
 <div align="left">  
