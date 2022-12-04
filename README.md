@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/Ronel028)  
 <div align="center">
-  <img width="100%" height = "200px" src="https://github.com/Ronel028/Ronel028/blob/main/GITHUB-BANNER.jpg" alt="cover" />
+  <img width="100%" height = "200px" src="https://github.com/Ronel028/Ronel028/blob/main/BANNER.jpg" alt="cover" />
 </div>
 
 # Hi there <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" style="width: 45px"/>, my name is Ronel Florida
