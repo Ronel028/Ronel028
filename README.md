@@ -26,6 +26,7 @@ I'm Ronel Florida from philippines, I graduated recently with a bachelor of Scie
    <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" height="50" />
    <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />
    <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="50" />
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" height="50" />
 </div>
 
 ## Most Used Languages
