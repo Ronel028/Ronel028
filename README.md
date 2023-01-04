@@ -6,7 +6,7 @@
 # Hi there <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" style="width: 45px"/>, my name is Ronel Florida
 
 ## About me
-I'm Ronel Florida from philippines, I graduated recently with a bachelor of Science in Information technology. I like coding and creating personal projects like landing page websites, web application and etc. I am always motivated to learn new things in order to improve my skills and become a good Full stack developer that can develop both front-end and back-end.
+I'm Ronel Florida from philippines, I graduated recently with a Bachelor's Degree in Information Technology. I like coding and creating personal projects like landing page websites, web application and etc. I am always motivated to learn new things in order to improve my skills and become a good Full stack developer that can develop both front-end and back-end.
 
 - 🌱 I’m currently learning **PHP**
 - 👨‍💻 All of my projects are available at [https://rnlflorida.vercel.app/](https://rnlflorida.vercel.app/)
