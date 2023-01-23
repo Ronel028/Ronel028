@@ -6,10 +6,10 @@
 # Hi there, my name is Ronel Florida
 
 ## About me
-I'm Ronel Florida from philippines, I'm enthusiastic self-taught Web Developer. I like coding and creating personal projects like landing page websites, web application and etc. I am always motivated to learn new things in order to improve my skills and become a good Full stack developer.
+I'm Ronel Florida from philippines, I'm enthusiastic self-taught Web Developer. I like things related to web and I'm always motivated to learn new things in order to improve my skills and become a good Full stack developer.
 
 - 🌱 I’m currently learning **PHP**
-- 👨‍💻 All of my projects are available at [https://rnlflorida.vercel.app/](https://rnlflorida.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ronel028.github.io/rnlflorida/](https://ronel028.github.io/rnlflorida/)
 - 📫 How to reach me **rnl.florida@gmail.com**
 
 ## Languages and Tools
