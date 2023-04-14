@@ -28,7 +28,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="30"> from Philippines.
 
-- :telescope: I’m currently working on my personal projects which is a blog website.
+- :telescope: I’m currently working on my personal projects.
 
 - :seedling: I'm always improving my Web Development skills by creating full stack projects.
 
