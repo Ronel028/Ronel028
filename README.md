@@ -33,7 +33,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/fkZukR450RQ1
 
 - :eyes: Still looking for opportunity where I apply what I've learned as web develper.
 
-- :mailbox:How to reach me: rnl.florida@gmail.com / +63-912-910-2641
+- :mailbox: How to reach me: rnl.florida@gmail.com / +63-912-910-2641
 
 ---
 
