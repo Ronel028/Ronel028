@@ -29,8 +29,6 @@ I am a Web Developer <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/
 
 - :seedling: I'm always improving my Web Development skills by creating projects.
 
-- :zap: When im not coding I like to watch movies, anime series and playing mobile games.
-
 - :mailbox: How to reach me: rnl.florida@gmail.com / +63-912-910-2641
 
 ---
